@@ -23,10 +23,10 @@ This project demonstrates the classification of the Iris dataset using two diffe
    git clone https://github.com/yourusername/Iris-Classification.git
    cd Iris-Classification
 2. Install the required packages:
-   
+   '''bash
    pip install -r requirements.txt
 
 3. Run the script:
-
+'''bash
 python iris_classification.py
  
